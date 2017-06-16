@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1234",
+        "points": [[6.959592, 50.936637]],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "12",
+        "points": [[6.960273,50.937209]],
+        "value": 45,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    }
+]
